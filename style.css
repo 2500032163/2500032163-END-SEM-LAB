@@ -1,0 +1,31 @@
+
+body {
+    background: lightblue;
+    font-family: Arial;
+}
+
+.container {
+    background: white;
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
